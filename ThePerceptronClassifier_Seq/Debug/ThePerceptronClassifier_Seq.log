@@ -1,0 +1,4 @@
+﻿  Classifier_seq.cpp
+b:\cpp\theperceptronclassifier_seq\theperceptronclassifier_seq\classifier_seq.cpp(71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ThePerceptronClassifier_Seq.vcxproj -> B:\cpp\ThePerceptronClassifier_Seq\Debug\ThePerceptronClassifier_Seq.exe
+  ThePerceptronClassifier_Seq.vcxproj -> B:\cpp\ThePerceptronClassifier_Seq\Debug\ThePerceptronClassifier_Seq.pdb (Full PDB)
